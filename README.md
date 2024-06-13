@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Morgan
-- 👀 I’m currently interested in Mobile App Development and Machine Learning
+- 👀 I’m currently interested in Mobile App Development and Machine Learning with Graphs!
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me sarpongmorgan@gmail.com
 - Check out my bento ❤️ https://bento.me/sarpongmorgan 
@@ -80,6 +80,12 @@
   <img src="https://skillicons.dev/icons?i=replit"/>
     &nbsp; &nbsp; &nbsp;
 </p>
+
+
+<p>
+    https://github-readme-stats-eight-theta.vercel.app/api?username=Morgan11-tech&title_color=9925be&text_color=2596be&bg_color=041014&show_icons=true&theme=algolia&include_all_commits=true&count_private=true
+</p>
+
 
 <!---
 Morgan11-tech/Morgan11-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
