@@ -83,8 +83,7 @@
 
 
 <p>
-  [![Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morgan11-tech)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)</p>
 
 
 <!---
