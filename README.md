@@ -83,7 +83,7 @@
 
 
 <p>
-    https://github-readme-stats-eight-theta.vercel.app/api?username=Morgan11-tech&title_color=9925be&text_color=2596be&bg_color=041014&show_icons=true&theme=algolia&include_all_commits=true&count_private=true
+  [![Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morgan11-tech)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
