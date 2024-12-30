@@ -18,8 +18,6 @@
     &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=js"/>
     &nbsp; &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=php"/>
-    &nbsp; &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=r"/>
     &nbsp; &nbsp; &nbsp;
 </p>
