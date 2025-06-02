@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Morgan
-- 👀 I’m currently interested in Mobile App Development and Machine Learning with Graphs!
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m currently interested in Mobile App Development, Web development and Machine Learning with Graphs!
+- 🌱 I’m currently a Software Engineer
 - 📫 How to reach me sarpongmorgan@gmail.com
 - Check out my bento ❤️ https://bento.me/sarpongmorgan 
 
@@ -76,6 +76,8 @@
   <img src="https://skillicons.dev/icons?i=idea"/>
     &nbsp; &nbsp; &nbsp;
   <img src="https://skillicons.dev/icons?i=replit"/>
+    &nbsp; &nbsp; &nbsp;
+  <img src="https://skillicons.dev/icons?i=webstorm"/>
     &nbsp; &nbsp; &nbsp;
 </p>
 
