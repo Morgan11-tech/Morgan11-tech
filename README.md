@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Morgan
 - 👀 I’m currently interested in Mobile App Development, Web development and Machine Learning with Graphs!
-- 🌱 I’m currently a Software Engineer
+- 🌱 I’m currently studying Interaction Technology at the University of Twente
 - 📫 How to reach me sarpongmorgan@gmail.com
-- Check out my bento ❤️ https://bento.me/sarpongmorgan 
+- See my portfolio here https://morgan11-tech.github.io/portfolio/
 
 ## Tools and Technologies
 
